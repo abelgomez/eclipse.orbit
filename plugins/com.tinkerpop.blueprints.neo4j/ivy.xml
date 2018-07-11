@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ivy-module version="2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="http://ant.apache.org/ivy/schemas/ivy.xsd">
+    <info
+        organisation="TinkerPop"
+        module="com.tinkerpop.blueprints"
+        status="integration">
+	</info>
+	<dependencies>
+		<dependency org="com.tinkerpop.blueprints" name="blueprints-neo4j-graph" rev="2.4.0" transitive="false" conf="default">
+		<!--
+			<exclude org="org.neo4j" />
+			<exclude org="com.tinkerpop.blueprints" name="blueprints-core" />
+		-->
+		</dependency>
+	</dependencies>
+</ivy-module>

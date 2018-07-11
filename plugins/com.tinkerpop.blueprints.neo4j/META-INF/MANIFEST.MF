@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Neo4j Adapter for Blueprints
+Bundle-SymbolicName: com.tinkerpop.blueprints.neo4j
+Bundle-Version: 2.4.0.qualifier
+Bundle-Vendor: TinkerPop
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-ClassPath: lib/blueprints-neo4j-graph-2.4.0.jar
+Export-Package: com.tinkerpop.blueprints.impls.neo4j
+Require-Bundle: com.tinkerpop.blueprints,
+ org.neo4j
