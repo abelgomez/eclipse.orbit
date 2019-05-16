@@ -15,6 +15,9 @@
    <feature url="features/org.neo4j.feature_1.9.2.201807111551.jar" id="org.neo4j.feature" version="1.9.2.201807111551">
       <category name="Orbit"/>
    </feature>
+   <feature url="features/org.apache.hadoop.hbase.feature_1.2.6.201905161914.jar" id="org.apache.hadoop.hbase.feature" version="1.2.6.201905161914">
+      <category name="Orbit"/>
+   </feature>
    <category-def name="Orbit" label="Orbit">
       <description>
          Repository for Eclipse bundles containing 3rd party libraries not available in the official Orbit repository (http://download.eclipse.org/tools/orbit/downloads/)
