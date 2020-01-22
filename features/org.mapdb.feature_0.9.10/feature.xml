@@ -207,14 +207,7 @@ limitations under the License.
          id="org.mapdb"
          download-size="0"
          install-size="0"
-         version="0.0.0"
-         unpack="false"/>
-
-   <plugin
-         id="org.mapdb"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
+         version="0.9.10.qualifier"
          unpack="false"/>
 
 </feature>
