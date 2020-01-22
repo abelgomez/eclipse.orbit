@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>org.neo4j</name>
+	<name>com.tinkerpop.blueprints.neo4j_2.4.0</name>
 	<comment></comment>
 	<projects>
 	</projects>
