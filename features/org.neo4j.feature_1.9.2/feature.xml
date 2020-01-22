@@ -693,6 +693,7 @@ Public License instead of this License.  But first, please read
          id="org.neo4j"
          download-size="0"
          install-size="0"
-         version="1.9.2.qualifier"/>
+         version="1.9.2.qualifier"
+         unpack="false"/>
 
 </feature>

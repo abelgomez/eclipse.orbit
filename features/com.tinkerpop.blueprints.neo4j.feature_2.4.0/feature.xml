@@ -41,8 +41,8 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
    </license>
 
    <requires>
-      <import plugin="com.tinkerpop.blueprints"/>
-      <import plugin="org.neo4j"/>
+      <import plugin="com.tinkerpop.blueprints" version="2.4.0" match="equivalent"/>
+      <import plugin="org.neo4j" version="1.9.2" match="equivalent"/>
    </requires>
 
    <plugin
