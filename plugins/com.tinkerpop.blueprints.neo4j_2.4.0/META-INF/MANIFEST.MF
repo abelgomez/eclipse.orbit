@@ -9,3 +9,4 @@ Bundle-ClassPath: lib/blueprints-neo4j-graph-2.4.0.jar
 Export-Package: com.tinkerpop.blueprints.impls.neo4j
 Require-Bundle: com.tinkerpop.blueprints;bundle-version="2.4.0",
  org.neo4j;bundle-version="1.9.2"
+Automatic-Module-Name: com.tinkerpop.blueprints.neo4j

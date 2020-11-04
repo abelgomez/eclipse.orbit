@@ -41,3 +41,4 @@ Export-Package: com.tinkerpop.blueprints,
  com.tinkerpop.blueprints.util.wrappers.readonly,
  com.tinkerpop.blueprints.util.wrappers.wrapped,
  org.apache.commons.configuration
+Automatic-Module-Name: com.tinkerpop.blueprints

@@ -4,7 +4,7 @@ Bundle-Name: Apache HBase
 Bundle-SymbolicName: org.apache.hadoop.hbase
 Bundle-Version: 1.2.6.qualifier
 Bundle-Vendor: Apache Software Foundation
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
 Bundle-ClassPath: lib/activation-1.1.jar,
  lib/apacheds-i18n-2.0.0-M15.jar,
  lib/apacheds-kerberos-codec-2.0.0-M15.jar,
@@ -251,3 +251,4 @@ Export-Package: org.apache.hadoop,
  org.apache.hadoop.yarn.webapp.log,
  org.apache.hadoop.yarn.webapp.util,
  org.apache.hadoop.yarn.webapp.view
+Automatic-Module-Name: org.apache.hadoop.hbase

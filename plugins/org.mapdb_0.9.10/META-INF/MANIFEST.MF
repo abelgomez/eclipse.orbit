@@ -3,8 +3,9 @@ Bundle-ManifestVersion: 2
 Bundle-Name: MapDB
 Bundle-SymbolicName: org.mapdb
 Bundle-Version: 0.9.10.qualifier
-Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
 Bundle-ClassPath: lib/mapdb-0.9.10.jar
 Export-Package: org.mapdb
 DynamicImport-Package: *
 Bundle-Vendor: Jan Kotek
+Automatic-Module-Name: org.mapdb
