@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: H2 Database Engine
-Bundle-SymbolicName: com.h2database_1.4.200
+Bundle-SymbolicName: com.h2database
 Bundle-Version: 1.4.200.qualifier
 Bundle-Vendor: H2 Group
 Automatic-Module-Name: com.h2database.1.4.200

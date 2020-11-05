@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
-      id="com.h2database.feature_1.4.200"
+      id="com.h2database.feature"
       label="H2 Database Engine"
       version="1.4.200.qualifier"
       provider-name="H2 Group">
@@ -575,7 +575,7 @@ jury trial in any resulting litigation.
    </license>
 
    <plugin
-         id="com.h2database_1.4.200"
+         id="com.h2database"
          download-size="0"
          install-size="0"
          version="1.4.200.qualifier"/>
