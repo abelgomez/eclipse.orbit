@@ -6,6 +6,7 @@ Bundle-Version: 1.4.200.qualifier
 Bundle-Vendor: H2 Group
 Automatic-Module-Name: com.h2database.1.4.200
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+DynamicImport-Package: *
 Export-Package: org.h2,
  org.h2.api,
  org.h2.bnf,
