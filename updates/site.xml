@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<site>
+<site
+	associateSitesURL="https://abelgomez.github.io/eclipse.orbit/updates/associateSites.xml>
    <feature url="features/com.tinkerpop.blueprints.feature_2.4.0.202001221837.jar" id="com.tinkerpop.blueprints.feature" version="2.4.0.202001221837">
       <category name="Orbit"/>
    </feature>

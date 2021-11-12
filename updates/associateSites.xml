@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<associateSites>
+	<associateSite url="https://download.eclipse.org/tools/orbit/downloads/drops/R20200529191137/repository" label="Orbit 2020-06"/>
+</associateSites>
