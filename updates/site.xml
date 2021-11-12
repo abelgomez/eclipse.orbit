@@ -21,6 +21,9 @@
    <feature url="features/com.h2database.feature_1.4.200.202011241924.jar" id="com.h2database.feature" version="1.4.200.202011241924">
       <category name="Orbit"/>
    </feature>
+   <feature url="features/net.sf.jung.feature_2.1.1.202111122242.jar" id="net.sf.jung.feature" version="2.1.1.202111122242">
+      <category name="Orbit"/>
+   </feature>
    <category-def name="Orbit" label="Orbit">
       <description>
          Repository for Eclipse bundles containing 3rd party libraries not available in the official Orbit repository (http://download.eclipse.org/tools/orbit/downloads/)
