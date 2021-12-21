@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site
-	associateSitesURL="https://abelgomez.github.io/eclipse.orbit/updates/associateSites.xml">
+      associateSitesURL="https://abelgomez.github.io/eclipse.orbit/updates/associateSites.xml">
    <feature url="features/com.tinkerpop.blueprints.feature_2.4.0.202001221837.jar" id="com.tinkerpop.blueprints.feature" version="2.4.0.202001221837">
       <category name="Orbit"/>
    </feature>
@@ -23,6 +23,9 @@
       <category name="Orbit"/>
    </feature>
    <feature url="features/net.sf.jung.feature_2.1.1.202111122242.jar" id="net.sf.jung.feature" version="2.1.1.202111122242">
+      <category name="Orbit"/>
+   </feature>
+   <feature url="features/nu.xom.feature_1.3.7.202112220008.jar" id="nu.xom.feature" version="1.3.7.202112220008">
       <category name="Orbit"/>
    </feature>
    <category-def name="Orbit" label="Orbit">
