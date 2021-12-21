@@ -28,6 +28,9 @@
    <feature url="features/nu.xom.feature_1.3.7.202112220008.jar" id="nu.xom.feature" version="1.3.7.202112220008">
       <category name="Orbit"/>
    </feature>
+   <feature url="features/com.github.jtidy.feature_1.0.3.202112220049.jar" id="com.github.jtidy.feature" version="1.0.3.202112220049">
+      <category name="Orbit"/>
+   </feature>
    <category-def name="Orbit" label="Orbit">
       <description>
          Repository for Eclipse bundles containing 3rd party libraries not available in the official Orbit repository (http://download.eclipse.org/tools/orbit/downloads/)
