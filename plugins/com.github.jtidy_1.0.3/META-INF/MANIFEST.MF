@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: JTidy
+Bundle-SymbolicName: com.github.jtidy
+Bundle-Version: 1.0.3.qualifier
+Bundle-Vendor: JTidy Authors
+Automatic-Module-Name: com.github.jtidy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Export-Package: org.w3c.tidy,
+ org.w3c.tidy.ant
+Bundle-ClassPath: .,
+ lib/jtidy-1.0.2.jar,
+ lib/xercesImpl-2.11.0.jar
